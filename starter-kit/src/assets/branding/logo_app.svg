@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200" style="background-color:none">
+  <!-- Fond noir -->
+  <rect width="100%" height="100%" fill="none" />
+  
+  <!-- Icône bleue -->
+  <g transform="translate(50,50)">
+    <rect x="0" y="0" width="60" height="80" rx="10" fill="#007bff" />
+    <circle cx="60" cy="0" r="10" fill="#007bff" />
+    <polyline points="15,45 30,25 50,35" fill="none" stroke="white" stroke-width="3" />
+  </g>
+  
+  <!-- Texte -->
+  <text x="130" y="90" fill="white" font-size="60" font-family="Arial, sans-serif" font-weight="bold">
+    JORDAN-DEV
+  </text>
+</svg>
